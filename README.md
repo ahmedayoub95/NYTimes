@@ -9,4 +9,4 @@
 
 #after installing the pods open the project directory in finder
 
-# open the the while named NYTimes.xcworkspace to run the project.
+# open the file named NYTimes.xcworkspace to run the project.
